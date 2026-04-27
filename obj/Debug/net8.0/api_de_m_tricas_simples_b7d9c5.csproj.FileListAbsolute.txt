@@ -1,0 +1,4 @@
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\api_de_m_tricas_simples_b7d9c5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\api_de_m_tricas_simples_b7d9c5.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\api_de_m_tricas_simples_b7d9c5.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\api_de_m_tricas_simples_b7d9c5.csproj.CoreCompileInputs.cache

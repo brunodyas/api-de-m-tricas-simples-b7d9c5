@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\re
 D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\api_de_m_tricas_simples_b7d9c5.pdb
 D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\api_de_m_tricas_simples_b7d9c5.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\ref\api_de_m_tricas_simples_b7d9c5.dll
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-b7d9c5\obj\Debug\net8.0\api_de_m_tricas_simples_b7d9c5.sourcelink.json
